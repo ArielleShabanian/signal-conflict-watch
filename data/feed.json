@@ -1,0 +1,10 @@
+{
+  "schema": 2,
+  "status": "awaiting_first_sync",
+  "generated_at": null,
+  "refresh_interval_hours": 6,
+  "verification": "Automatically indexed publisher headlines are not independently fact-checked.",
+  "score": null,
+  "history": [],
+  "headlines": []
+}
